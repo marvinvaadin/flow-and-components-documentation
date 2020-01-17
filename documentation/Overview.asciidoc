@@ -12,7 +12,7 @@ You can create UIs in Java, or use HTML templates to create the UI, and then bin
 
 Vaadin features:
 
-* An architecture that lets you concentrate on the UI.
+* An architecture that let you concentrate on the UI.
 No need to think about client-server communication.
 * A set of carefully crafted UI components that focus on both the end-user and developer experience.
 * Powerful abstraction layers to build your own reusable UI components with either Java or HTML templates.
